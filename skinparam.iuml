@@ -1,0 +1,52 @@
+skinparam backgroundColor #eeeeee
+skinparam PartitionBorderColor #dddddd
+skinparam titleBorderRoundCorner 15
+skinparam titleBorderThickness 3
+skinparam titleBorderColor #eeeeee
+skinparam titleBackgroundColor #eeeeee
+skinparam Shadowing false
+skinparam Padding 5
+skinparam SwimlaneBorderColor #cccccc
+skinparam HyperlinkColor #1B282A
+skinparam DatabaseBorderColor #dddddd
+skinparam DatabaseBackgroundColor #388497
+skinparam DatabaseFontName Helvetica
+skinparam DatabaseFontColor Black
+
+skinparam activity {
+   StartColor #8CC63E
+   EndColor #9d3a3a
+   BarColor #cccccc
+   BackgroundColor #FED925
+   BorderColor #FED925
+   BorderThickness 1
+   BorderRoundCorner 1
+   ArrowColor #8CC63E
+   FontName Helvetica
+   FontColor #444444
+   DiamondBackgroundColor #EFAF20
+   DiamondBorderColor #EFAF20
+   DiamondFontName Helvetica
+   DiamondFontColor #444444
+}
+skinparam sequence {
+	ArrowColor #CCCCCC
+	LifeLineBorderColor #388497
+	LifeLineBackgroundColor #388497
+	
+	ParticipantBorderColor #EFAF20
+	ParticipantBackgroundColor #EFAF20
+	ParticipantFontName Helvetica
+	ParticipantFontColor #444444
+	
+	ActorBackgroundColor #EFAF20
+	ActorBorderColor #EFAF20
+	ActorFontColor Black
+	ActorFontName Helvetica
+}
+skinparam note {
+   BackgroundColor #EFAF20
+   BorderColor #E6981C
+   FontName Helvetica
+   FontColor #444444
+}
